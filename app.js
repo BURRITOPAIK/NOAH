@@ -1,4 +1,4 @@
 function SMASHTHEBUTTON(){
 
-alert("U NEEDED MY HELP");
+alert("U NEEDED MY HELP also ur the best");
 }
